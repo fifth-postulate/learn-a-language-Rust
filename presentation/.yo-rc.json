@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Learn a Language",
+    "packageVersion": "1.0.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "fifth-postulate",
+    "githubRepository": "learn-a-language-Rust"
+  }
+}
