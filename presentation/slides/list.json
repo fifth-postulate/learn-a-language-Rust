@@ -4,5 +4,6 @@
     "fibonacci.md",
     "idiomatic-fibonacci.md",
     "naive-algebraic-datatype.md",
-    "compile-problem.md"
+    "compile-problem.md",
+    "rustc-explain.md"
 ]
