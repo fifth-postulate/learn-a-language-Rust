@@ -3,5 +3,6 @@
     "hello-world.md",
     "fibonacci.md",
     "idiomatic-fibonacci.md",
-    "naive-algebraic-datatype.md"
+    "naive-algebraic-datatype.md",
+    "compile-problem.md"
 ]
