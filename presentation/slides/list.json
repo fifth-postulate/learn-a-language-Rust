@@ -2,5 +2,6 @@
     "index.md",
     "hello-world.md",
     "fibonacci.md",
-    "idiomatic-fibonacci.md"
+    "idiomatic-fibonacci.md",
+    "naive-algebraic-datatype.md"
 ]
