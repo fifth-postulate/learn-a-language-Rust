@@ -9,3 +9,10 @@ Box::new(Tree::Leaf(42)))` it should print
 ```plain
 the depth of (() (42)) is 2
 ```
+
+Maybe the documentation of [Display][display], [Ownership][ownership] and
+[Borrowing][borrowing] will be helpful.
+
+[display]: https://doc.rust-lang.org/std/fmt/trait.Display.html
+[ownership]: https://doc.rust-lang.org/book/ownership.html
+[borrowing]: https://doc.rust-lang.org/book/references-and-borrowing.html 
