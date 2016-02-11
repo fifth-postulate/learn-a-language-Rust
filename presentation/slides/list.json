@@ -1,5 +1,7 @@
 [
     "index.md",
+    "rust.md",
+    "mozilla.md",
     "hello-world.md",
     "fibonacci.md",
     "idiomatic-fibonacci.md",
