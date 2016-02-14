@@ -13,5 +13,6 @@
     "compile-problem-reloaded.md",
     "trait.md",
     "other-problem.md",
-    "exercise-1.md"
+    "exercise-1.md",
+    "ownership.md"
 ]
