@@ -14,5 +14,6 @@
     "trait.md",
     "other-problem.md",
     "exercise-1.md",
-    "ownership.md"
+    "ownership.md",
+    "borrowing.md"
 ]
