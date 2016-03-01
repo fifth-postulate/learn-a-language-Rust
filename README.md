@@ -7,6 +7,9 @@ On 25 February 2016 [Devnology][devnology] is organizing the event [learn a lang
 
 during the event we will dive into the language head first. This repository gathers the material that will be used for the exploration.
 
+The [exercises][] can be found on this link: [https://s3-eu-west-1.amazonaws.com/learn-language-rust/exercises.zip][exercises]
+
 [devnology]: http://devnology.nl/
 [event]: http://devnology.nl/events/learn-a-language-rust
 [rustlang]: https://www.rust-lang.org/
+[exercises]: https://s3-eu-west-1.amazonaws.com/learn-language-rust/exercises.zip
