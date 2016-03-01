@@ -1,0 +1,21 @@
+[
+    "index.md",
+    "rust.md",
+    "mozilla.md",
+    "hello-world.md",
+    "fibonacci.md",
+    "idiomatic-fibonacci.md",
+    "naive-algebraic-datatype.md",
+    "compile-problem.md",
+    "rustc-explain.md",
+    "exercise-0.md",
+    "display-a-tree.md",
+    "compile-problem-reloaded.md",
+    "trait.md",
+    "other-problem.md",
+    "exercise-1.md",
+    "ownership.md",
+    "borrowing.md",
+    "cargo.md",
+    "show-tell.md"
+]
