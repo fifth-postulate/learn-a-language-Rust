@@ -1,4 +1,4 @@
-.PHONE = all
+.PHONE = all clean
 
 SOURCES = $(shell echo *.md)
 PDFS = $(addsuffix .pdf,$(basename $(SOURCES)))
@@ -6,5 +6,8 @@ PDFS = $(addsuffix .pdf,$(basename $(SOURCES)))
 all: $(PDFS)
 	@echo "Finished"
 
-$(PDFS): $(SOURCES)
+clean:
+	rm *.pdf
+
+%.pdf: %.md
 	pandoc $< -o $@
