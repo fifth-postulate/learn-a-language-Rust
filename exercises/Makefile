@@ -15,4 +15,4 @@ clean:
 	pandoc $< -o $@
 
 $(ZIP):
-	zip $(ZIP) $(PDFS)
+	zip $(ZIP) $(PDFS) exercise-01.rs
